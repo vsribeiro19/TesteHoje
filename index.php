@@ -1,3 +1,3 @@
 <?php
 
-$teste = 10;
+$teste = 1;
